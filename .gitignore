@@ -32,4 +32,4 @@ git-src
 .cproject
 .ccache
 .vscode*
-git rm --cached package/lean/luci-app-ssr-plus/ -r
+
